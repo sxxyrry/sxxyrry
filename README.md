@@ -43,16 +43,32 @@
 
 ### 作品集 | Projects
 
-#### [TTHSD TT 高速下载器](https://github.com/TTHSDownloader/TTHSDNext)
+#### [TLD 泰勒下载器](https://github.com/TaiLerDownloader/TaiLerDownloader)
 > 高性能、跨平台、多语言可调用的下载引擎核心 SDK
 
 ![Rust](https://img.shields.io/badge/Rust-1.93+-orange?logo=rust)
 ![AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Win%20%7C%20Linux%20%7C%20macOS%20%7C%20Android%20%7C%20HarmonyOS-green)
+![Platform](https://img.shields.io/badge/Platform-Win%20%7C%20Linux%20%7C%20macOS%20%7C%20Android%20%7C%20IOS%20%7C%20HarmonyOS-green)
 
 - 原生支持 **7 种协议**：HTTP/3 · FTP · SFTP · BitTorrent · ED2K · Metalink
 - **8 种语言绑定**：Python · Java · Node.js · C# · Godot · Go · C++ · Rust
 - 独家支持 **鸿蒙系统** 与 **ED2K 网络**，内存占用极低，零 GC 停顿
+
+#### [KossJS](https://github.com/KossJS/KossJS)
+> 高性能、跨平台、多语言可调用的嵌入式 JavaScript 运行时引擎
+
+![Rust](https://img.shields.io/badge/Rust-1.93+-orange?logo=rust)
+![AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Win%20%7C%20Linux%20%7C%20macOS%20%7C%20Android%20%7C%20IOS%20%7C%20HarmonyOS-green)
+
+- 原生支持: 
+  - 高性能与低占用
+  - 标准化 C ABI 接口
+  - Node.js 兼容模块
+  - 原生 Fetch API
+  - 完整的 ES Modules 支持
+  - 实例隔离与安全
+- 独家支持 **鸿蒙系统**，内存占用极低，零 GC 停顿
 
 #### [JustHTML 只需网页工具箱](https://github.com/sxxyrry/JustHTML)
 > 纯 Web 技术构建的轻量工具箱
